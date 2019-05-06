@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search has a valid snapshot 1`] = `
+<form>
+  Search
+  <input
+    type="text"
+  />
+  <button
+    className="button"
+    onClick={null}
+    type="submit"
+  >
+    Search
+  </button>
+</form>
+`;
