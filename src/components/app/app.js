@@ -37,7 +37,6 @@ const updateSearchTopStoriesState = (hits, page) => (prevState) => {
   }
 }
 
-// consive body have an implicit return attached
 class App extends Component {
   _isMounted = false
 
